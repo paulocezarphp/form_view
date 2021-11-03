@@ -1,5 +1,26 @@
+.fv-group{
+
+	box-sizing: border-box;
+
+}
+
+.fv-group-2{
+
+	display: grid;
+	grid-template-columns: 50% 50%;
+	box-sizing: border-box;
+
+}
+
 .fv-input{
+
+	width: 100%;
+	box-sizing: border-box;
 	
+}
+
+.fv-label{
+
 }
 
 .fv-button-submit{

@@ -21,3 +21,9 @@ function fv_validate_date(){
     //verifica se a data é valida
 
 }
+
+function fv_validate_tel(){
+   
+    //verifica se o telefone é valido
+
+}
