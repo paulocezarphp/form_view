@@ -1,3 +1,10 @@
+.form{ 
+
+	padding: 0px; 
+	margin: 0px;
+
+}
+
 .fv-group{
 
 	box-sizing: border-box;
@@ -20,9 +27,13 @@
 }
 
 .fv-label{
+    
+
 
 }
 
 .fv-button-submit{
 	
+
+
 }
