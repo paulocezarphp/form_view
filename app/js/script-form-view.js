@@ -22,8 +22,38 @@ function fv_validate_date(){
 
 }
 
+function fv_validate_time(){
+   
+    //verifica se a data é valida
+
+}
+
+function fv_validate_datetime(){
+   
+    //verifica se a data é valida
+
+}
+
+function fv_validate_number(){
+   
+    //verifica se a data é valida
+
+}
+
+function fv_validate_url(){
+   
+    //verifica se a data é valida
+
+}
+
 function fv_validate_tel(){
    
     //verifica se o telefone é valido
+
+}
+
+function fv_validate_name(){
+
+    //verifica se o nome é valido
 
 }
